@@ -1,1 +1,2 @@
-"# Lab1_Git_Balingit" 
+# Lab 1 Activity
+This repository belongs to Trizz Balingit.
